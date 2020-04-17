@@ -1,21 +1,9 @@
 # Democracy Works Upcoming Elections Practical Exercise
 
-Thank you for applying to work at Democracy Works! This coding
-exercise is designed to show off your ability to program a small
-application that interacts with an API. You should spend no more than
-2 hours on it and then turn it in to us.
-
-If you've previously applied to Democracy Works with this project,
-we ask that you either 1) submit the work you completed previously, or 2)
-start your work from scratch so that we can fairly judge your work 
-against that of other applicants.
-
 ## The project
 
 You are building a web application that can tell people what elections
-they have coming up based on their address. It is similar to the kinds
-of things you'd be working on at Democracy Works and uses one of our
-APIs.
+they have coming up based on their address. 
 
 When someone visits the site you create, they will be presented with
 an address form. When the user submits the form, your code will
@@ -43,30 +31,6 @@ to others. We do not expect you to complete everything on this list,
 nor is this list exhaustive of what would go into a "real" project
 (there is no consideration for failure cases or deployment, for
 example).
-
-## The anonymous review
-
-In order to reduce potential bias, your submission will be graded
-anonymously. To make that easier, please don't include any personally
-identifying information in your code or documentation.
-
-To avoid using your own address in documentation or tests, you can use
-well-known places (like the White House or Disneyland) or the
-Democracy Works office in Brooklyn (20 Jay St, Brooklyn, NY 11201).
-
-## Project templates
-
-Project templates exist for [Clojure][clojure-template],
-[JavaScript][javascript-template], and [Python][python-template]. You
-may choose another language, or choose to not work from these
-templates. If you choose to not use a template, be sure to document
-how to run your project.
-
-Pick a language that you're comfortable in. There are no bonus points
-for making a particular choice here.
-
-The templates include some libraries for HTTP routing and HTML
-templating. You are encouraged to add dependencies as needed.
 
 ## About OCD-IDs
 
